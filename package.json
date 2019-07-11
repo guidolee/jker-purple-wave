@@ -1,0 +1,31 @@
+{
+    "name": "jker-purple-wave",
+    "displayName": "Purple Wave",
+    "description": "A minimalist purple VS Code theme based on Subliminal and Oceanic",
+    "version": "0.0.1",
+    "publisher": "jker",
+    "preview": true,
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"theme",
+		"minimal",
+		"oceanic",
+		"dark",
+        "purple",
+        "wave"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "jker Purple Wave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jker Purple Wave-color-theme.json"
+            }
+        ]
+    }
+}
