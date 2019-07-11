@@ -1,31 +1,44 @@
 {
-    "name": "jker-purple-wave",
-    "displayName": "Purple Wave",
-    "description": "A minimalist purple VS Code theme based on Subliminal and Oceanic",
-    "version": "0.0.1",
-    "publisher": "jker",
-    "preview": true,
-    "engines": {
-        "vscode": "^1.36.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
+	"name": "purple-wave",
+	"displayName": "Purple Wave",
+	"description": "A minimalist purple VS Code theme based on Subliminal and Oceanic",
+	"version": "1.0.0",
+	"publisher": "jker",
+	"preview": true,
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/guidolee/jker-purple-wave.git"
+	},
+	"bugs": {
+		"url": "https://github.com/guidolee/jker-purple-wave/issues"
+	},
+	"keywords": [
 		"theme",
 		"minimal",
 		"oceanic",
 		"dark",
-        "purple",
-        "wave"
+		"purple",
+		"wave"
 	],
-    "contributes": {
-        "themes": [
-            {
-                "label": "jker Purple Wave",
-                "uiTheme": "vs-dark",
-                "path": "./themes/jker Purple Wave-color-theme.json"
-            }
-        ]
-    }
+	"contributes": {
+		"themes": [
+			{
+				"label": "jker Purple Wave",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Purple-Wave-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a607c507-d986-4dd6-9042-cbd8c00d1dd5",
+		"publisherDisplayName": "jker",
+		"publisherId": "bafd1827-5cb9-43e5-af4b-a089255c35fb"
+	}
 }
