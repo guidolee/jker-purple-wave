@@ -1,7 +1,7 @@
 # Purple Wave
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/jker.jker-purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.jker-purple-wave)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jker.jker-purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.jker-purple-wave)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/jker.purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.purple-wave)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jker.purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.purple-wave)
 
 **Purple Wave** is a minimalistic VS Code theme based on [Subliminal](https://github.com/gaearon/subliminal) and [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
 
