@@ -30,7 +30,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "jker Purple Wave",
+				"label": "Purple Wave",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Purple-Wave-color-theme.json"
 			}

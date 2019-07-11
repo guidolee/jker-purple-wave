@@ -9,7 +9,7 @@
 
 ## Disclaimer
 
-I'm a deisgner based in Argentina. This theme was made focused on CSS/Less/Sass readability also has several modifications on HTML/JS but that was not the purpose
+I'm a designer based in La Plata, Argentina. This theme was made focused on CSS/Less/Sass readability, it also has several color modifications on HTML/JS but that was not the main idea to do it.
 
 I'm using [Victor Mono](https://rubjo.github.io/victor-mono/) font and [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) for icons/folders.
 
